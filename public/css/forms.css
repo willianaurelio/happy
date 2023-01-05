@@ -106,3 +106,7 @@ fieldset legend {
     padding: .9rem;
     cursor: pointer;
 }
+
+.new-upload + .new-upload{
+    margin-top: 2.4rem;
+}
