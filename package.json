@@ -1,0 +1,23 @@
+{
+  "name": "happy",
+  "version": "1.0.0",
+  "description": "Projeto desenvolvido durante o nlw3 da Rocketseat.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/willianaurelio/happy.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/willianaurelio/happy/issues"
+  },
+  "homepage": "https://github.com/willianaurelio/happy#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
